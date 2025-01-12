@@ -6,7 +6,7 @@ I'm Miguel Dario Coronel, a passionate and dedicated **Information Systems stude
 
 ### 🛠️ Technical Skills
 - **Programming Languages**: Python, PHP, C#, JavaScript, TypeScript, Java
-- **Frameworks**: Flask, Django, Expo, Spring Boot
+- **Frameworks**: Flask, Django, Expo, React Native, Spring Boot
 - **Data Analysis & Visualization**: Pandas, Matplotlib, Plotly, SQL, MySQL, Firebase
 - **Tools & Platforms**: GitHub, JSON, Trello
 - **Methodologies**: Agile (Scrum, XP, Kanban), Object-Oriented Programming (OOP), Software Engineering, MVC
