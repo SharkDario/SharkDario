@@ -9,7 +9,7 @@ I'm Miguel Dario Coronel, a passionate and dedicated **Information Systems stude
 - **Frameworks**: Flask, Django, Expo, React Native, Spring Boot
 - **Data Analysis & Visualization**: Pandas, Matplotlib, Plotly, SQL, MySQL, Firebase
 - **Tools & Platforms**: GitHub, JSON, Trello
-- **Methodologies**: Agile (Scrum, XP, Kanban), Object-Oriented Programming (OOP), Software Engineering, MVC
+- **Methodologies**: Agile (Scrum, XP, Kanban), Object-Oriented Programming (OOP), Software Engineering, MVC, API Rest
 
 ### 🎓 Education & Certifications
 - **Bachelor's Degree in Information Systems**  
