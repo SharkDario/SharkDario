@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello, world! 💻🌍 I'm [Miguel Dario Coronel]!
 
 ![Miguel Dario Coronel](./assets/wallpaper.png)
 
