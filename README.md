@@ -1,6 +1,6 @@
 # Hi there 👋
 
- <!-- ![Your Name](https://via.placeholder.com/150)  -->
+![Miguel Dario Coronel](./assets/wallpaper.png)
 
 I'm Miguel Dario Coronel, a passionate and dedicated **Information Systems student** with a strong foundation in programming, data analysis, and software engineering. Currently pursuing my **Bachelor's Degree in Information Systems** at the *Universidad de la Cuenca del Plata, Argentina*, I have successfully completed 25 subjects and gained hands-on experience in various programming languages and technologies.
 
@@ -28,7 +28,7 @@ I'm Miguel Dario Coronel, a passionate and dedicated **Information Systems stude
   *Government of Buenos Aires* | 2022  
 
 ### 🌱 What I'm Currently Learning
-I'm constantly expanding my knowledge in **Java** and **Spring Boot*
+I'm constantly expanding my knowledge in **Java** and **Spring Boot**
 
 ### 💼 Professional Experience
 - **Programming Teacher**  
